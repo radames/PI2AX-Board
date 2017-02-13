@@ -15,7 +15,7 @@ for the project [Memememe](http://memememememememe.me/)
 ## Schematic
 
 <p align="center">
-<img src="schematic.png"/>
+<img src="imgs/schematic.png"/>
 </p>
 [pdf](PI2AX.pdf)
 
@@ -23,5 +23,23 @@ for the project [Memememe](http://memememememememe.me/)
 ## Board
 
 <p align="center">
-<img src="board.png"/>
+<img src="imgs/board.png"/>
+</p>
+
+## Final
+
+
+
+
+<p align="center">
+<img src="imgs/IMG_20170207_101458.jpg"/>
+</p>
+
+<p align="center">
+<img src="imgs/IMG_20170207_205112.jpg"/>
+</p>
+
+
+<p align="center">
+<img src="imgs/IMG_20170207_205144.jpg"/>
 </p>
